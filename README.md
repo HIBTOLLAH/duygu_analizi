@@ -22,7 +22,7 @@ Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz:
 
    pip install tensorflow keras gensim numpy pandas scikit-learn
 
-2. `duygu_analizi.py` dosyasını çalıştırarak modeli eğitin ve test edin:
+2. `Rnn_model.py` dosyasını çalıştırarak modeli eğitin ve test edin:
   
    python Rnn_model.py
   
